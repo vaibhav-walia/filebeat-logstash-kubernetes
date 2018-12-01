@@ -9,7 +9,7 @@ spec:
   template:
     metadata:
       labels:
-        app: filebeat
+        name: filebeat
       name: filebeat
     spec:
       containers:
